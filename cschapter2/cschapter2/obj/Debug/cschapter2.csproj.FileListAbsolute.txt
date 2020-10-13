@@ -1,0 +1,10 @@
+D:\CS\cschapter2\cschapter2\bin\Debug\cschapter2.exe.config
+D:\CS\cschapter2\cschapter2\bin\Debug\cschapter2.exe
+D:\CS\cschapter2\cschapter2\bin\Debug\cschapter2.pdb
+D:\CS\cschapter2\cschapter2\obj\Debug\cschapter2.csprojAssemblyReference.cache
+D:\CS\cschapter2\cschapter2\obj\Debug\cschapter2.Form1.resources
+D:\CS\cschapter2\cschapter2\obj\Debug\cschapter2.Properties.Resources.resources
+D:\CS\cschapter2\cschapter2\obj\Debug\cschapter2.csproj.GenerateResource.cache
+D:\CS\cschapter2\cschapter2\obj\Debug\cschapter2.csproj.CoreCompileInputs.cache
+D:\CS\cschapter2\cschapter2\obj\Debug\cschapter2.exe
+D:\CS\cschapter2\cschapter2\obj\Debug\cschapter2.pdb

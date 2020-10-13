@@ -1,0 +1,10 @@
+D:\CS\cschapter3\cschapter3\bin\Debug\cschapter3.exe.config
+D:\CS\cschapter3\cschapter3\bin\Debug\cschapter3.exe
+D:\CS\cschapter3\cschapter3\bin\Debug\cschapter3.pdb
+D:\CS\cschapter3\cschapter3\obj\Debug\cschapter3.csprojAssemblyReference.cache
+D:\CS\cschapter3\cschapter3\obj\Debug\cschapter3.Form1.resources
+D:\CS\cschapter3\cschapter3\obj\Debug\cschapter3.Properties.Resources.resources
+D:\CS\cschapter3\cschapter3\obj\Debug\cschapter3.csproj.GenerateResource.cache
+D:\CS\cschapter3\cschapter3\obj\Debug\cschapter3.csproj.CoreCompileInputs.cache
+D:\CS\cschapter3\cschapter3\obj\Debug\cschapter3.exe
+D:\CS\cschapter3\cschapter3\obj\Debug\cschapter3.pdb
